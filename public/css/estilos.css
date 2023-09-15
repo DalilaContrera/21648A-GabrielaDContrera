@@ -1,0 +1,11 @@
+.footer {
+    background-color: rgb(166, 240, 166);
+    position:fixed;
+    left:0px;
+    bottom:0px;
+    height:40px;
+    width:100%;
+}
+.navbar {
+    background-color: rgb(166, 240, 166);
+}
